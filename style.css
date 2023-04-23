@@ -71,7 +71,7 @@ body {
 }
 .video {
     margin-left: 200px;
-    width: 610px;
+    width: 1010px;
 }
 .Pizza {
  margin-left:200px ;
@@ -79,7 +79,6 @@ body {
 }
 .chef {
     display:flex;
-
-
-    
+    font-size: 15px;
+    height: 10%;
 }
