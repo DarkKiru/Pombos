@@ -69,3 +69,17 @@ body {
     font-size: 30px;
     margin-left: 200px;
 }
+.video {
+    margin-left: 200px;
+    width: 610px;
+}
+.Pizza {
+ margin-left:200px ;
+    font-size: 30px;
+}
+.chef {
+    display:flex;
+
+
+    
+}
